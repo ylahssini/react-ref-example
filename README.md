@@ -1,4 +1,4 @@
-# New Project
+# REACT REF EXAMPLE
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
