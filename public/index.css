@@ -1,0 +1,22 @@
+/* Add CSS styles here! */
+body {
+  font-family: Arial;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+section {
+  width: 75%;
+}
+
+aside {
+  width: 25%;
+}
+
+ol {
+  position: sticky;
+  top: 20px;
+}

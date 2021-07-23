@@ -1,4 +1,11 @@
 {
+  "name": "react-ref-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ylahssini/react-ref-example.git",
+  "author": "ylahssini <ylahssini@gmail.com>",
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
@@ -6,5 +13,9 @@
   },
   "devDependencies": {
     "snowpack": "^3.3.7"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
