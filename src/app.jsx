@@ -44,7 +44,7 @@ const App = () => {
 
     return (
         <RefContext.Provider value={refs}>
-            <h1>Experience share refs in children</h1>
+            <h1>Example of sharing refs to children</h1>
 
             <main>
                 <Section data={blocks} />
